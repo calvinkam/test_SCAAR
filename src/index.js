@@ -13,10 +13,10 @@ const App = () => {
   return (
     <BrowserRouter basename='/test_SCAAR'>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/top-match" element={<TopMatch />} />
-        <Route path="/location" element={<Location />} />
-        <Route path="/about" element={<About />} />
+        <Route path="" element={<Home />} />
+        <Route path="top-match" element={<TopMatch />} />
+        <Route path="location" element={<Location />} />
+        <Route path="about" element={<About />} />
       </Routes>
     </BrowserRouter>
   );
