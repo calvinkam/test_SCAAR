@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test_SCAAR/static/css/main.ae100ab5.css",
-    "main.js": "/test_SCAAR/static/js/main.225d1fe6.js",
+    "main.js": "/test_SCAAR/static/js/main.bae5dca8.js",
     "static/js/453.b418f484.chunk.js": "/test_SCAAR/static/js/453.b418f484.chunk.js",
     "index.html": "/test_SCAAR/index.html",
     "main.ae100ab5.css.map": "/test_SCAAR/static/css/main.ae100ab5.css.map",
-    "main.225d1fe6.js.map": "/test_SCAAR/static/js/main.225d1fe6.js.map",
+    "main.bae5dca8.js.map": "/test_SCAAR/static/js/main.bae5dca8.js.map",
     "453.b418f484.chunk.js.map": "/test_SCAAR/static/js/453.b418f484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae100ab5.css",
-    "static/js/main.225d1fe6.js"
+    "static/js/main.bae5dca8.js"
   ]
 }
